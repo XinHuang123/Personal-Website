@@ -1,4 +1,5 @@
-"use strict";                   
+"use strict";   
+                
 $(document).ready(function() {
     $("#owl-demo3").owlCarousel({
     items : 4,

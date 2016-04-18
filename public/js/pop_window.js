@@ -1,3 +1,5 @@
+"use strict";
+
 function openYouTube(id){ 
       //YouTube Player Parameters 
       var width = 640; 
